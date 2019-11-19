@@ -8,4 +8,4 @@ As a student researcher, I gathered and cleaned a large quantity of publicly-ava
 
 You can view the PDF version of my knitted markdown file by clicking [here]:
 
-[link text itself]: https://github.com/claudiashrefler/Portfolio/blob/master/FullData.pdf
+[link text itself]: http://github.com/claudiashrefler/Portfolio/blob/master/FullData.pdf
