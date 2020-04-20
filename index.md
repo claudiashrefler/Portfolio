@@ -7,4 +7,4 @@ As a Clare Boothe Luce Research Scholar, I spent 10 weeks in the summer of 2019 
 As a student researcher, I gathered and cleaned a large quantity of publicly-available data, and I performed Exploratory Data Analyses and spatial hierarchical clustering analyses using R. I then mapped these analyses using the ggmap package in R. Professor Abby Flynt is continuing the research during the 2019-2020 school year.
 
 [PDF version of EDA and Clustering Code](https://github.com/claudiashrefler/Portfolio/raw/master/FullData.pdf)
-[JPG of Research Poster](https://github.com/claudiashrefler/Portfolio/raw/master/Research Poster.jpg)
+[PDF of Research Poster](https://github.com/claudiashrefler/Portfolio/raw/master/ResearchPoster.pdf)
