@@ -1,3 +1,5 @@
+This portfolio highlights my internship experience and research work conducted while attending Bucknell University.
+
 ## Internship - Geisinger Medical Center
 
 I worked as an intern in the research department of Geisinger Medical Center beginning in May 2020 and continuing through fall. I worked primarily for the Meyer-Chabris lab, however I was also able to work with staff scientists from the Behavioral Insights Team housed within Geisinger's Steele Institute for Health Innovation on different projects.
